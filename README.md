@@ -19,7 +19,7 @@ This is a mini-project built in Python to practice API integration and real-time
 - Python
 - smtplib for sending emails
 - requests module for sending API requests
-- dotnet module for loading .env and for secure credential storage
+- dotenv module for loading .env and for secure credential storage
 - Two public APIs (Stock & News)
 <br>
 ## Setup Instructions:
